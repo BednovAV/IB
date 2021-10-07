@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IB_Task2_Cipher", "IB_Task2_Cipher\IB_Task2_Cipher.csproj", "{636E336F-F930-4382-8A80-295E8D90B218}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IB_Task2_Decryptor", "IB_Task2_Decryptor\IB_Task2_Decryptor.csproj", "{8ABE8793-5BFE-45C7-B34A-91D19CE4ECB4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{636E336F-F930-4382-8A80-295E8D90B218}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{636E336F-F930-4382-8A80-295E8D90B218}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{636E336F-F930-4382-8A80-295E8D90B218}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{636E336F-F930-4382-8A80-295E8D90B218}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8ABE8793-5BFE-45C7-B34A-91D19CE4ECB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8ABE8793-5BFE-45C7-B34A-91D19CE4ECB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8ABE8793-5BFE-45C7-B34A-91D19CE4ECB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8ABE8793-5BFE-45C7-B34A-91D19CE4ECB4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D60F9632-7CA3-4A87-9550-6CFC44CB6B49}
+	EndGlobalSection
+EndGlobal
